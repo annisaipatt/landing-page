@@ -3,7 +3,7 @@
     <div class="max-w-7xl mx-auto px-2 sm:px-6 lg:px-8">
       <div class="flex items-center justify-between h-16">
         <div class="flex-shrink-0">
-          <!-- Logo -->
+            <!-- Logo -->
           <div class="h-8 w-auto text-blue-500 text-2xl font-bold font-poppins">LOGO</div>
         </div>
         <div class="hidden md:block">
