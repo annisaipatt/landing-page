@@ -1,3 +1,3 @@
 <template>
-  <nav class="">Navbar</nav>
+  <nav class="bg-black">Navbar</nav>
 </template>
