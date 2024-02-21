@@ -5,7 +5,7 @@
       <div class="container mx-auto flex items-center justify-between">
         <div class="w-1/2">
           <div class="mb-8">
-            <h1 class="text-l mb-2 font-semibold text-[#184657]">
+            <h1 class="text-l mb-2 font-semibold text-black">
               Professional Cleaning Services
             </h1>
             <h2 class="text-5xl mb-4 font-extrabold text-black">
