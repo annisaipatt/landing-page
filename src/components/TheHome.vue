@@ -5,7 +5,7 @@
         <div class="container mx-auto flex items-center justify-between">
           <div class="w-1/2">
             <div class="mb-8">
-              <h2 class="text-3xl mb-6 font-extrabold text-black">
+              <h2 class="text-3xl mb-2 font-extrabold text-black">
                 Why You Always Need
                 <br />
                 To Keep Your AC Clean

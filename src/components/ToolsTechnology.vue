@@ -8,7 +8,7 @@
         <div class="container mx-auto items-center justify-between">
           <div>
             <div class="mb-8">
-              <h2 class="text-3xl mb-6 font-extrabold text-white">
+              <h2 class="text-3xl mb-2 font-extrabold text-white">
                 We Are Professional Cleaning
                 <br />
                 Services Company

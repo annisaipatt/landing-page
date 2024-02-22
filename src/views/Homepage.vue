@@ -7,7 +7,7 @@
     <TheHome></TheHome>
   </div>
   <div class="relative">
-    <ToolsTechnology></ToolsTechnology>
+    <OurPricing></OurPricing>
   </div>
   <div class="relative">
     <ToolsTechnology></ToolsTechnology>
