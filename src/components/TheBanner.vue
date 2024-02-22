@@ -1,7 +1,6 @@
 <template>
-  <div>
-    <h1>banner</h1>
-    <div class="absolute w-[1162px] h-[598px] top-[92px] left-[164px]">
+  <div class="py-6">
+    <div class="py-16">
       <div class="container mx-auto flex items-center justify-between">
         <div class="w-1/2">
           <div class="mb-8">
@@ -17,10 +16,14 @@
               commodo ligula.
             </div>
             <div class="flex gap-2">
-              <button class="px-3 py-2 bg-blue-500 text-white text-sm font-semibold rounded-md font-poppins">
+              <button
+                class="px-3 py-2 bg-blue-500 text-white text-sm font-semibold rounded-md font-poppins"
+              >
                 Get Started Now
               </button>
-              <button class="px-3 py-2 border-2 border-gray-200 text-black text-sm font-semibold rounded-md font-poppins">
+              <button
+                class="px-3 py-2 border-2 border-gray-200 text-black text-sm font-semibold rounded-md font-poppins"
+              >
                 Our Pricing
               </button>
             </div>
