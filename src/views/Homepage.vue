@@ -7,12 +7,12 @@
     <TheHome></TheHome>
   </div>
   <div class="relative">
-    <TheServices></TheServices>
+    <ToolsTechnology></ToolsTechnology>
   </div>
 </template>
 <script setup>
 import TheNavbar from "../components/TheNavbar.vue";
 import TheBanner from "../components/TheBanner.vue";
 import TheHome from "../components/TheHome.vue";
-import TheServices from "@/components/TheServices.vue";
+import ToolsTechnology from "@/components/ToolsTechnology.vue";
 </script>
