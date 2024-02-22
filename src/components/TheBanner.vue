@@ -1,6 +1,5 @@
 <template>
   <div>
-    <h1>banner</h1>
     <div class="absolute w-[1162px] h-[598px] top-[92px] left-[164px]">
       <div class="container mx-auto flex items-center justify-between">
         <div class="w-1/2">
