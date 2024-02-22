@@ -1,6 +1,6 @@
 <template>
         <div class="bg-blue-50">
-          <div class="w-[1162px] h-[598px] top-[92px] left-[164px]">
+          <div class="py-10 px-40">
             <div class="container mx-auto flex items-center justify-between">
               <div class="w-1/2">
                 <div class="mb-8">
