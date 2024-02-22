@@ -1,6 +1,6 @@
 <template>
   <div class="py-6">
-    <div class="py-16">
+    <div class="py-16 px-40">
       <div class="container mx-auto flex items-center justify-between">
         <div class="w-1/2">
           <div class="mb-8">
