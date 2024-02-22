@@ -17,14 +17,10 @@
               commodo ligula.
             </div>
             <div class="flex gap-2">
-              <button
-                class="px-3 py-2 bg-blue-500 text-white text-sm font-semibold rounded-md font-poppins"
-              >
+              <button class="px-3 py-2 bg-blue-500 text-white text-sm font-semibold rounded-md font-poppins">
                 Get Started Now
               </button>
-              <button
-                class="px-3 py-2 border-2 border-gray-200 text-black text-sm font-semibold rounded-md font-poppins"
-              >
+              <button class="px-3 py-2 border-2 border-gray-200 text-black text-sm font-semibold rounded-md font-poppins">
                 Our Pricing
               </button>
             </div>
