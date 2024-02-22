@@ -7,13 +7,16 @@
     <TheHome></TheHome>
   </div>
   <div class="relative">
-    <OurPricing></OurPricing>
+    <TheServices></TheServices>
   </div>
   <div class="relative">
     <ToolsTechnology></ToolsTechnology>
   </div>
   <div class="relative">
     <OurPricing></OurPricing>
+  </div>
+  <div class="relative">
+    <OurSpeciality></OurSpeciality>
   </div>
 </template>
 <script setup>
@@ -22,4 +25,6 @@ import TheBanner from "../components/TheBanner.vue";
 import TheHome from "../components/TheHome.vue";
 import ToolsTechnology from "@/components/ToolsTechnology.vue";
 import OurPricing from "@/components/OurPricing.vue";
+import OurSpeciality from "@/components/OurSpeciality.vue";
+import TheServices from "@/components/TheServices.vue";
 </script>
