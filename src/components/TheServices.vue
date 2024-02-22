@@ -2,35 +2,30 @@
   <div class="container">
     <div class="bg-blue-500 flex">
       <div class="flex justify-end">
-        <img
-          src="/public/img/Frame 28.jpg"
-          alt=""
-          class="w-[500px] h-[600px]"
-        />
+        <img src="/public/img/Frame 28.jpg" alt="" class="w-[500px] h-[600px]" />
       </div>
-      <div class="py-10 px-16 w-1/2">
+      <div class="py-10 px-16 w-1/2 mx-auto mt-24"> <!-- Tambahkan padding-top di sini -->
         <div class="container mx-auto items-center justify-between">
           <div>
             <div class="mb-8">
-              <h2 class="text-3xl mb-4 font-extrabold text-white">
+              <h2 class="text-3xl mb-6 font-extrabold text-white">
                 We Are Professional Cleaning
                 <br />
                 Services Company
               </h2>
-              <div class="text-l mb-6 font-normal text-white">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam
-                sed massa ornare, pretium justo egestas, scelerisque diam. Donec
-                quis commodo ligula.
-              </div>
-              <div class="text-l mb-6 font-normal text-white">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam
-                sed massa ornare, pretium justo egestas, scelerisque diam. Donec
-                quis commodo ligula.
-              </div>
+              <hr class="border-2 border-white mb-8 w-24">
+                <div class="text-l mb-8 font-normal text-white">
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae laborum enim harum quidem adipisci, eius
+                    minima velit quibusdam sapiente, officiis dolor quia facilis non maiores. Dolorum maiores error suscipit
+                    provident?</p>
+                </div>
+                <div class="text-l mb-8 font-normal text-white">
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae laborum enim harum quidem adipisci, eius
+                    minima velit quibusdam sapiente, officiis dolor quia facilis non maiores. Dolorum maiores error suscipit
+                    provident?</p>
+                </div>
               <div>
-                <button
-                  class="px-6 py-3 text-blue-500 bg-white text-xs font-semibold rounded-md font-poppins"
-                >
+                <button class="px-6 py-3 text-blue-500 bg-white text-xs font-semibold rounded-md font-poppins">
                   Read More
                 </button>
               </div>
