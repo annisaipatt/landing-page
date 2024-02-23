@@ -1,6 +1,6 @@
 <template>
     <div class="container">
-        <div class="h-[800px]">
+        <div class="h-[400px]">
             <div class="mt-20 flex flex-col items-center justify-between">
                 <div class="grid grid-cols-3 gap-16 w-fit mx-auto px-16">
                     <div>
@@ -33,22 +33,22 @@
                             nisi accusamus.
                             <div class="mt-4 flex items-center space-x-4">
                                 <a href="#" class="text-blue-500 hover:text-blue-600">
-                                    <i class="fab fa-instagram"></i>
+                                    <i class="fa-2x fab fa-instagram"></i>
                                 </a>
                                 <a href="#" class="text-blue-500 hover:text-blue-600">
-                                    <i class="fab fa-facebook"></i>
+                                    <i class="fa-2x fab fa-facebook"></i>
                                 </a>
                                 <a href="#" class="text-blue-500 hover:text-blue-600">
-                                    <i class="fab fa-twitter"></i>
+                                    <i class="fa-2x fab fa-twitter"></i>
                                 </a>
                             </div>
                         </p>
                     </div>
                 </div>
-                <div class="text-center mt-8">
-                    <p class="text-sm text-gray-400">&copy; Exclolab Website Template 2023</p>
-                </div>
             </div>
         </div>
+    </div>
+    <div class="bg-blue-500 px-40 h-[50px] flex items-center">
+        <p class="text-medium font-semibold text-white">&copy; Exclolab Website Template 2023</p>
     </div>
 </template>

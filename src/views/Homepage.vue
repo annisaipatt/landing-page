@@ -36,6 +36,7 @@ import ToolsTechnology from "@/components/ToolsTechnology.vue";
 import OurPricing from "@/components/OurPricing.vue";
 import OurSpeciality from "@/components/OurSpeciality.vue";
 import TheServices from "@/components/TheServices.vue";
-import ContactUs from "../components/ContactUs.vue"
-import TheFooter from "../components/TheFooter.vue"
+import ContactUs from "../components/ContactUs.vue";
+import TheFooter from "../components/TheFooter.vue";
+import "@fortawesome/fontawesome-free/css/all.css";
 </script>
