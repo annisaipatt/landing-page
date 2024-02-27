@@ -1,37 +1,27 @@
 <template>
-  <div class="container">
-    <div class="bg-blue-500 flex">
-      <div class="flex justify-end">
-        <img src="/public/img/Frame 28.jpg" alt="" class="w-[500px] h-[600px]" />
+  <div class="bg-blue-400 flex items-center flex-col md:flex-row">
+    <div class="h-[600px] p-8 md:p-0 w-[500px] bg-cover bg-center" style="background-image: url('img/Frame 28.jpg');"></div>
+    <div class="p-16">
+      <h2 class="text-3xl mb-2 font-extrabold text-white">
+        We Are Professional Cleaning
+        <br />
+        Services Company
+      </h2>
+      <hr class="border-2 border-white mb-8 w-24">
+      <div class="text-l mb-8 font-thin text-white">
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae laborum enim harum quidem adipisci, eius
+          minima velit quibusdam sapiente, officiis dolor quia facilis non maiores. Dolorum maiores error suscipit
+          provident?</p>
       </div>
-      <div class="py-10 px-16 w-1/2 mx-auto mt-24"> <!-- Tambahkan padding-top di sini -->
-        <div class="container mx-auto items-center justify-between">
-          <div>
-            <div class="mb-8">
-              <h2 class="text-3xl mb-2 font-extrabold text-white">
-                We Are Professional Cleaning
-                <br />
-                Services Company
-              </h2>
-              <hr class="border-2 border-white mb-8 w-24">
-                <div class="text-l mb-8 font-normal text-white">
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae laborum enim harum quidem adipisci, eius
-                    minima velit quibusdam sapiente, officiis dolor quia facilis non maiores. Dolorum maiores error suscipit
-                    provident?</p>
-                </div>
-                <div class="text-l mb-8 font-normal text-white">
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae laborum enim harum quidem adipisci, eius
-                    minima velit quibusdam sapiente, officiis dolor quia facilis non maiores. Dolorum maiores error suscipit
-                    provident?</p>
-                </div>
-              <div>
-                <button class="px-6 py-3 text-blue-500 bg-white text-xs font-semibold rounded-md font-poppins">
-                  Read More
-                </button>
-              </div>
-            </div>
-          </div>
-        </div>
+      <div class="text-l mb-8 font-thin text-white">
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae laborum enim harum quidem adipisci, eius
+          minima velit quibusdam sapiente, officiis dolor quia facilis non maiores. Dolorum maiores error suscipit
+          provident?</p>
+      </div>
+      <div>
+        <button class="px-6 py-3 text-blue-500 bg-white text-xs font-semibold rounded-md font-poppins">
+          Read More
+        </button>
       </div>
     </div>
   </div>

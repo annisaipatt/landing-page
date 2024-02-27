@@ -10,10 +10,10 @@
     </div>
   </div>
 
-  <div class="grid grid-cols-3 gap-4 w-fit mx-auto px-10">
+  <div class="grid grid-cols-1 md:grid-cols-3 gap-4 w-fit mx-auto px-10">
     <!-- Card 1 -->
     <div class="w-full border px-16 py-8 rounded overflow-hidden shadow-lg mx-auto my-8">
-      <div class="flex flex-col items-center gap-6 text-center">
+      <div class="flex flex-col items-center gap-6 text-center max-w-36">
         <div class="flex flex-col gap-2">
           <span class="font-semibold"><span class="text-5xl font-bold">$27</span>/month</span>
           <header class="text-2xl font-semibold">Basic Plan</header>
