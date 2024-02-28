@@ -8,7 +8,7 @@
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit.
             Voluptatibus deleniti veritatis molestiae, cumque recusandae quidem
-            nisi accusamus.
+            nisi accusamus. 
           </p>
         </div>
       </div>
