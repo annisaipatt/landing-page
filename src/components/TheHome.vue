@@ -4,7 +4,7 @@
       <div class="py-10 px-10">
         <div class="mx-auto grid grid-cols-1 gap-4 lg:grid-cols-2 ">
           <div class="lg:order-1 order-2">
-            <div class="mb-8">
+            <div class="mb-8 pt-8">
               <h2 class="text-3xl mb-2 font-extrabold text-black">
                 Why You Always Need
                 <br />
