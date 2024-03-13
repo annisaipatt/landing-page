@@ -1,7 +1,7 @@
 <template>
   <div class="mt-20 flex flex-col items-center justify-center">
-    <h2 class="text-2xl mb-2 font-bold text-black">
-      Our Pricing
+    <h2 class="text-3xl mb-2 font-bold text-black text-center">
+      This Is Title For Services
     </h2>
     <hr class="border-2 border-blue-500 mb-8 w-24">
     <div class="text-l mb-8 font-normal text-black text-center flex">
@@ -23,7 +23,7 @@
         </svg>
       </div>
 
-      <div class="w-full  px-8 py-8 rounded overflow-hidden bg-gray-50 mt-16 shadow-lg mx-auto my-8">
+      <div class="w-full hover:bg-white px-8 py-8 rounded overflow-hidden bg-gray-50 mt-16 shadow-lg mx-auto my-8">
         <div class="flex flex-col items-center gap-6 text-center ">
           <p class=" mt-8 text-sm text-gray-500">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perspiciatis ea
             asperiores corrupti est laboriosam quasi perferendis aspernatur, porro velit consequatur.</p>
@@ -42,7 +42,7 @@
         </svg>
       </div>
 
-      <div class="w-full  px-8 py-8 rounded overflow-hidden bg-gray-50 mt-16 shadow-lg mx-auto my-8">
+      <div class="w-full hover:bg-white px-8 py-8 rounded overflow-hidden bg-gray-50 mt-16 shadow-lg mx-auto my-8">
         <div class="flex flex-col items-center gap-6 text-center ">
           <p class=" mt-8 text-sm text-gray-500">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perspiciatis ea
             asperiores corrupti est laboriosam quasi perferendis aspernatur, porro velit consequatur.</p>
@@ -61,7 +61,7 @@
         </svg>
       </div>
 
-      <div class="w-full  px-8 py-8 rounded overflow-hidden bg-gray-50 mt-16 shadow-lg mx-auto my-8">
+      <div class="w-full hover:bg-white px-8 py-8 rounded overflow-hidden bg-gray-50 mt-16 shadow-lg mx-auto my-8">
         <div class="flex flex-col items-center gap-6 text-center ">
           <p class=" mt-8 text-sm text-gray-500">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perspiciatis ea
             asperiores corrupti est laboriosam quasi perferendis aspernatur, porro velit consequatur.</p>

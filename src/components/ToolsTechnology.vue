@@ -1,6 +1,6 @@
 <template>
-  <div class="bg-blue-400 flex items-center flex-col md:flex-row">
-    <div class="h-[600px] p-8 md:p-0 w-[500px] bg-cover bg-center" style="background-image: url('img/Frame 28.jpg');"></div>
+  <div class="bg-blue-400 md:p-8 sm:p-8 lg:p-0 flex items-center flex-col md:flex-row">
+    <div class="lg:h-[600px] p-8 lg:m-0 m-8 lg:w-[500px] h-[300px] w-[350px] bg-cover bg-center" style="background-image: url('img/Frame 28.jpg');"></div>
     <div class="p-16">
       <h2 class="text-3xl mb-2 font-extrabold text-white">
         We Are Professional Cleaning
