@@ -24,8 +24,8 @@
         </div>
         <div class="hidden md:block">
           <!-- Nav items -->
-          <button class="px-6 py-3 bg-blue-500 text-white text-xs font-semibold rounded-md font-poppins">
-            Get a Quote
+          <button class="px-6 py-3 bg-blue-500 hover:bg-blue-100 text-white hover:text-blue-500 text-xs font-semibold rounded-md font-poppins">
+            Action Button
           </button>
         </div>
       </div>

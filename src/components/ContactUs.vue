@@ -12,8 +12,8 @@
         </p>
         <div class="flex gap-2 md:flex-row justify-center">
           <div class="max-w-40">
-            <button class="px-6 py-3 w-full bg-blue-500 border-2 border-blue-500 text-white text-xs font-semibold rounded-md font-poppins">
-              Call Us Now
+            <button class="px-6 py-3 bg-blue-500 hover:bg-blue-100 text-white hover:text-blue-500 text-xs font-semibold rounded-md font-poppins">
+              Read More
             </button>
           </div>
         </div>

@@ -19,7 +19,7 @@
           provident?</p>
       </div>
       <div>
-        <button class="px-6 py-3 text-blue-500 bg-white text-xs font-semibold rounded-md font-poppins">
+        <button class="px-6 py-3 bg-white hover:bg-slate-100 text-blue-500 text-xs font-semibold rounded-md font-poppins">
           Read More
         </button>
       </div>

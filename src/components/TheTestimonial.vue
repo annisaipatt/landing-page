@@ -61,7 +61,7 @@
     </div>
   </div>
   <div class="mt-2 mb-10 flex flex-col items-center justify-center">
-    <button class="px-6 py-3 bg-blue-500 text-white text-xs font-semibold rounded-md font-poppins">
+    <button class="border border-blue-400 px-6 py-3 bg-blue-500 text-white hover:bg-white hover:text-blue-500 text-xs font-semibold rounded-md font-poppins">
       Primary Button
     </button>
   </div></template>

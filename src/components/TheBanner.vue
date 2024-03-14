@@ -13,12 +13,12 @@
         </p>
         <div class="flex gap-2 flex-col md:flex-row">
           <div class="max-w-40">
-            <button class="px-6 py-3 w-full bg-blue-500 border-2 border-blue-500 text-white text-xs font-semibold rounded-md font-poppins">
+            <button class="px-6 py-3 w-full border-2 border-gray-500 hover:border-0 hover:bg-blue-500 text-white text-xs font-semibold rounded-md font-poppins">
               Get Started Now
             </button>
           </div>
           <div class="max-w-40">
-            <button class="px-6 py-3 w-full border-2  text-white text-xs font-semibold rounded-md font-poppins">
+            <button class="px-6 py-3 w-full border-2 border-gray-500 hover:border-0 hover:bg-blue-500 text-white text-xs font-semibold rounded-md font-poppins">
               Our Pricing
             </button>
           </div>
