@@ -39,5 +39,6 @@ import TheServices from "@/components/TheServices.vue";
 import TheTestimonial from "@/components/TheTestimonial.vue";
 import ContactUs from "../components/ContactUs.vue";
 import TheFooter from "../components/TheFooter.vue";
-import "@fortawesome/fontawesome-free/css/all.css"
+import "@fortawesome/fontawesome-free/css/all.css";
+import 'remixicon/fonts/remixicon.css';
 </script>
