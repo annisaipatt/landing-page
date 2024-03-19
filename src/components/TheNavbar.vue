@@ -1,5 +1,7 @@
+<script>
 import { RouterLink } from 'vue-router';
 
+</script>
 <template>
   <nav class="bg-white fixed bottom-0 md:bottom-auto w-screen z-10">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -12,9 +14,9 @@ import { RouterLink } from 'vue-router';
         </div>
         <div>
           <div class="hidden md:block">
-            <RouterLink to="#"
+            <a href="#home"
               class="text-black-500 hover:text-blue-500 px-3 py-2 rounded-md text-sm font-medium font-poppins">Home
-            </RouterLink>
+            </a>
             <RouterLink to="#"
               class="text-black-500 hover:text-blue-500 px-3 py-2 rounded-md text-sm font-medium font-poppins">Services
             </RouterLink>
@@ -103,31 +105,7 @@ import { RouterLink } from 'vue-router';
         </div>
       </Dialog>
     </TransitionRoot>
-
-    <!-- Mobile menu button -->
-    <!-- <div class="md:hidden h-screen fixed z-50 w-full pr-5">
-      <div class="px-2 bg-white h-full pt-2 pb-3 space-y-1 sm:px-3 border-t border-gray-300">
-        <RouterLink to="#"
-          class="text-black-500 hover:text-blue-500 block px-3 py-3 rounded-md text-base font-medium font-poppins">Home</RouterLink>
-        <RouterLink to="#services"
-          class="text-black-500 hover:text-blue-500 block px-3 py-3 rounded-md text-base font-medium font-poppins">Services</RouterLink>
-        <RouterLink to="#toolsTechnology"
-          class="text-black-500 hover:text-blue-500 block px-3 py-3 rounded-md text-base font-medium font-poppins">Tools &
-          Technology</RouterLink>
-        <RouterLink to="#"
-          class="text-black-500 hover:text-blue-500 block px-3 py-3 rounded-md text-base font-medium font-poppins">How We
-          Work</RouterLink>
-          <hr class="border-t border-gray-300 w-full">
-        <div class="py-3">
-          <button class="px-6 py-3 bg-blue-500 text-white text-sm font-semibold rounded-md font-poppins w-full">
-            Action Button
-          </button>
-        </div>
-      </div>
-    </div> -->
   </nav>
-
-
 
 
 </template>

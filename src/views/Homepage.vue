@@ -1,6 +1,6 @@
 <template>
   <TheNavbar></TheNavbar>
-  <div class="relative">
+  <div class="relative" id="home">
     <TheBanner></TheBanner>
   </div>
   <div class="relative">
