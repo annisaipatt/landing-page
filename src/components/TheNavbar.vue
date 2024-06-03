@@ -14,16 +14,16 @@ import { RouterLink } from 'vue-router';
         </div>
         <div>
           <div class="hidden md:block">
-            <a href="#home"
+            <RouterLink :to="{path: '/', hash: '#home'}"
               class="text-black-500 hover:text-blue-500 px-3 py-2 rounded-md text-sm font-medium font-poppins">Home
-            </a>
-            <RouterLink to="#"
+            </RouterLink>
+            <RouterLink to="#services"
               class="text-black-500 hover:text-blue-500 px-3 py-2 rounded-md text-sm font-medium font-poppins">Services
             </RouterLink>
             <RouterLink to="#toolsTechnology"
               class="text-black-500 hover:text-blue-500 px-3 py-2 rounded-md text-sm font-medium font-poppins">Tools &
               Technology</RouterLink>
-            <RouterLink to="#"
+            <RouterLink to="#ourspeciality"
               class="text-black-500 hover:text-blue-500 px-3 py-2 rounded-md text-sm font-medium font-poppins">How We
               Work</RouterLink>
           </div>

@@ -6,7 +6,7 @@
   <div class="relative">
     <TheHome></TheHome>
   </div>
-  <div class="relative">
+  <div class="relative" id="services">
     <TheServices></TheServices>
   </div>
   <div class="relative">
@@ -42,3 +42,4 @@ import TheFooter from "../components/TheFooter.vue";
 import "@fortawesome/fontawesome-free/css/all.css";
 import 'remixicon/fonts/remixicon.css';
 </script>
+
